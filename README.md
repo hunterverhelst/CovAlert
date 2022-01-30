@@ -4,4 +4,6 @@ A notification service to easily and anonymously let your contacts know they hav
 
 The Python Flask functionally is present in the backend folder (main.py). This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Try it out: https://www.covalert.tech
+
 Devpost: https://devpost.com/software/covalert-gk3aiy
